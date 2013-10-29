@@ -1,0 +1,33 @@
+/*
+[=====================================================]
+ * Blocks v1.0
+ *
+ * Copyright 2013 Daniel Wojciechowski
+ * daniel@imagine-verso.com
+ * Licensed under MIT License
+ *
+ * 
+[======================================================]
+*/
+
+
+
+/*
+--------------
+   Index:
+   
+   1.Margins
+   2.Paddings
+--------------
+*/
+
+
+
+/* ====.Margins.======================= */
+
+
+/*--.margins rounded.--*/
+.m0{margin: 0;}
+.m5{margin: 5px;}
+.m10{margin: 10px;}
+.m15{margin: 15px;}
