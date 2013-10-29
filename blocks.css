@@ -23,11 +23,60 @@
 
 
 
-/* ====.Margins.======================= */
+/* ====.MARGINS.======================= */
 
 
 /*--.margins rounded.--*/
-.m0{margin: 0;}
-.m5{margin: 5px;}
-.m10{margin: 10px;}
-.m15{margin: 15px;}
+.m0{margin: 0;} .m0i{margin: 0!important;}
+.m5{margin: 5px;} .m5i{margin: 5px!important;}
+.m10{margin: 10px;} .m10i{margin: 10px!important;}
+.m15{margin: 15px;} .m15i{margin: 15px!important;}
+.m20{margin: 20px;} .m20i{margin: 20px!important;}
+.m25{margin: 25px;} .m25i{margin: 25px!important;}
+.m30{margin: 30px;} .m30i{margin: 30px!important;}
+.m35{margin: 35px;} .m35i{margin: 35px!important;}
+.m40{margin: 40px;} .m40i{margin: 40px!important;}
+.m45{margin: 45px;} .m45i{margin: 45px!important;}
+.m50{margin: 50px;} .m50i{margin: 50px!important;}
+.m55{margin: 55px;} .m55i{margin: 55px!important;}
+.m60{margin: 60px;} .m60i{margin: 60px!important;}
+.m65{margin: 65px;} .m65i{margin: 65px!important;}
+.m70{margin: 70px;} .m70i{margin: 70px!important;}
+.m75{margin: 75px;} .m75i{margin: 75px!important;}
+.m80{margin: 80px;} .m80i{margin: 80px!important;}
+.m85{margin: 85px;} .m85i{margin: 85px!important;}
+.m90{margin: 90px;} .m90i{margin: 90px!important;}
+.m95{margin: 95px;} .m95i{margin: 95px!important;}
+.m100{margin: 100px;} .m100i{margin: 100px!important;}
+
+
+
+/* ====.PADDINGS.======================= */
+
+
+/*--.paddings rounded.--*/
+.p0{padding: 0;} .p0i{padding: 0!important;}
+.p5{padding: 5px;} .p5i{padding: 5px!important;}
+.p10{padding: 10px;} .p10i{padding: 10px!important;}
+.p15{padding: 15px;} .p15i{padding: 15px!important;}
+.p20{padding: 20px;} .p20i{padding: 20px!important;}
+.p25{padding: 25px;} .p25i{padding: 25px!important;}
+.p30{padding: 30px;} .p30i{padding: 30px!important;}
+.p35{padding: 35px;} .p35i{padding: 35px!important;}
+.p40{padding: 40px;} .p40i{padding: 40px!important;}
+.p45{padding: 45px;} .p45i{padding: 45px!important;}
+.p50{padding: 50px;} .p50i{padding: 50px!important;}
+.p55{padding: 55px;} .p55i{padding: 55px!important;}
+.p60{padding: 60px;} .p60i{padding: 60px!important;}
+.p65{padding: 65px;} .p65i{padding: 65px!important;}
+.p70{padding: 70px;} .p70i{padding: 70px!important;}
+.p75{padding: 75px;} .p75i{padding: 75px!important;}
+.p80{padding: 80px;} .p80i{padding: 80px!important;}
+.p85{padding: 85px;} .p85i{padding: 85px!important;}
+.p90{padding: 90px;} .p90i{padding: 90px!important;}
+.p95{padding: 95px;} .p95i{padding: 95px!important;}
+.p100{padding: 100px;} .p100i{padding: 100px!important;}
+
+
+
+
